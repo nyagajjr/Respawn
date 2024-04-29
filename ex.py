@@ -1,4 +1,4 @@
 def add(m,n):
     return m+n
 
-print(add(6+7))
+print(add(6,7))
